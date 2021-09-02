@@ -1,0 +1,6 @@
+
+
+setStateI({...stateI,userId:value.title});
+        //setFormState({...formState,nombre:target.value}) 
+        setStateI({...stateI,id:value.id.toString});
+        setStateI({...stateI,title:value.title});

@@ -1,0 +1,29 @@
+* {
+    margin: 5px;
+    padding: 5px;
+}
+
+body {
+    background: linear-gradient(to right, rgba(89, 115, 235, 0.116), rgb(132, 179, 241));
+}
+
+input {
+    background: linear-gradient(to left, rgba(89, 115, 235, 0.116), rgb(132, 179, 241));
+    font-size: 20px;
+    font-family: Verdana;
+    border-radius: 10px 10px;
+}
+
+button {
+    background: linear-gradient(to left, rgba(86, 86, 87, 0.116), rgb(68, 184, 97));
+    font-size: 20px;
+    font-family: Impact;
+    border-radius: 10px 10px;
+    margin: 2px 2px;
+    width: 100px;
+}
+
+.irvinNav {
+    background: linear-gradient(to left, rgba(89, 115, 235, 0.116), rgb(132, 179, 241));
+    height: 50px;
+}
